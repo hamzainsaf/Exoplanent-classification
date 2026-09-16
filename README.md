@@ -4,8 +4,6 @@ Machine learning system for classifying Kepler Objects of Interest (KOI) into **
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-orange.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.141-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Overview
 
