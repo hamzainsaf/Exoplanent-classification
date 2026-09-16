@@ -464,5 +464,3 @@ GitHub: https://github.com/hamzainsaf
 Project: https://github.com/hamzainsaf/Exoplanent-classification
 
 ---
-
-**Built for the NASA Space Apps Challenge 2026**
