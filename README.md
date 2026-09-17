@@ -141,7 +141,6 @@ The four vetting flags account for approximately **47.7% of the combined feature
 * pandas 3.0
 * matplotlib 3.11
 * MLflow 3.16
-* FastAPI 0.141 (optional, for API)
 * Streamlit 1.64 (optional, for dashboard)
 
 ### Quick Start
